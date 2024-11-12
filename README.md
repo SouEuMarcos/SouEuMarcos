@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello World! Eu sou o Marcos 👾🤖
 
-<!--
-**SouEuMarcos/SouEuMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxQIrVFBIw38aal_GN2lmVIn-xwj4qO5Xlw&s)
 
-Here are some ideas to get you started:
+--------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mim:
+
+🙋  Me chamo Marcos Vinícius, tenho 22 anos. <br>
+🔍  Gosto de estudar o mundo back-end e estou ampliando meu conhecimento na área.<br>
+
+[Acesse meu linkedin](https://www.linkedin.com/in/marcos-vin%C3%ADcius-da-silva-a78a31257/)
+
+---------
+
+### Minhas Tecnologias:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
+
+-------
+
+| Cursos | Certificados |
+| ------ | ------------ |
+| Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/6KKRLJBO.pdf) |
+
+------------
+
+![Marcos Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=SouEuMarcos&show_icons=true&theme=radical)
