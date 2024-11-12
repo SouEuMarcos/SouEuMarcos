@@ -34,4 +34,4 @@
 
 ![Marcos Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=SouEuMarcos&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouEuMarcos&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouEuMarcos&layout=pie)](https://github.com/SouEuMarcos/github-readme-stats)
