@@ -32,6 +32,6 @@
 
 ------------
 
-![Marcos Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=SouEuMarcos&show_icons=true&theme=radical)
+![Marcos Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=SouEuMarcos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouEuMarcos&layout=pie)](https://github.com/SouEuMarcos/github-readme-stats)
+![Marcos Vinícius GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SouEuMarcos&layout=compact&langs_count=7&theme=dracula)
